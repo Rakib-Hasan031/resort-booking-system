@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to Hotel booking Managment project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/71af5038-cc84-45bb-b31f-911270247376
+**URL**: 
 
 ## How can I edit this code?
 
